@@ -1,8 +1,10 @@
 # Birdcall-Identification-competition
-2nd place in the Cornell Birdcall Identification competition
+[![Интервью](https://img.youtube.com/vi/qo26VH7ER-k/0.jpg)](https://www.youtube.com/watch?v=qo26VH7ER-k)
 # My decision
 github: https://github.com/vlomme/Birdcall-Identification-competition
+
 datasets: https://www.kaggle.com/vlomme/my-birdcall-datasets
+
 kaggle notebook: https://www.kaggle.com/vlomme/surfin-bird-2nd-place
 
 - Due to a weak PC and to speed up training, I saved the Mel spectrograms and later worked with them
