@@ -1,5 +1,7 @@
 # Birdcall-Identification-competition
 [![Интервью](https://img.youtube.com/vi/qo26VH7ER-k/0.jpg)](https://www.youtube.com/watch?v=qo26VH7ER-k)
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/vlomme/competition/light)
+
 # My decision
 github: https://github.com/vlomme/Birdcall-Identification-competition
 
